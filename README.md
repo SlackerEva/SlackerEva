@@ -4,5 +4,5 @@
   * I wanna work with experienced colleagues on interesting projects 💃
 
 ### My stack: 
-      JavaScript, HTML, CSS, React, Git.
+      JavaScript, HTML, CSS, React, Git, BEM, BPMN
       
